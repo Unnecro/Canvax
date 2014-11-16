@@ -1,0 +1,1 @@
+$.Canvax.Utils = new Object();
